@@ -1,3 +1,3 @@
 # mirror-game
-adptive control
-optimal control 
+code for adptive control algorithm 
+code for optimal control algorithm 
