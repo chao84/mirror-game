@@ -14,6 +14,8 @@ https://github.com/jeffsp/matleap
 and add relevant files to “IEEE_code”.
 
 
+NOTE: the following code runs correctly on MATLAB_R2016a and newer versions. 
+
 
 HOW TO USE “ADAPTIVE CONTROL”
 
