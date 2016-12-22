@@ -1,3 +1,3 @@
 # mirror-game
-code for adptive control algorithm 
-code for optimal control algorithm 
+matlab code for adptive control algorithm 
+matlab code for optimal control algorithm 
